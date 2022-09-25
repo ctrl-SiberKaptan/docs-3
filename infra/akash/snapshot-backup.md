@@ -11,7 +11,7 @@ version: "2.0"
 
 services:
   node:
-    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-akash-v0.16.3
+    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-terpnet-v0.1.0
     env:
       - MONIKER=my-moniker-1
       - CHAIN_JSON=https://raw.githubusercontent.com/ovrclk/net/master/mainnet/meta.json

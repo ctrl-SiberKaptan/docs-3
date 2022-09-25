@@ -11,7 +11,7 @@ version: "2.0"
 
 services:
   validator:
-    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-akash-v0.16.3
+    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-terpnet-v0.1.0
     env:
       - MONIKER=validator
       - CHAIN_JSON=https://raw.githubusercontent.com/ovrclk/net/master/mainnet/meta.json
@@ -47,7 +47,7 @@ services:
     #     data:
     #       mount: /root/.akash
   node1:
-    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-akash-v0.16.3
+    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-terpnet-v0.1.0
     env:
       - MONIKER=private_node_1
       - CHAIN_JSON=https://raw.githubusercontent.com/ovrclk/net/master/mainnet/meta.json
@@ -78,7 +78,7 @@ services:
     #     data:
     #       mount: /root/.akash
   node2:
-    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-akash-v0.16.3
+    image: ghcr.io/ovrclk/cosmos-omnibus:v0.3.3-terpnet-v0.1.0
     env:
       - MONIKER=private_node_2
       - CHAIN_JSON=https://raw.githubusercontent.com/ovrclk/net/master/mainnet/meta.json

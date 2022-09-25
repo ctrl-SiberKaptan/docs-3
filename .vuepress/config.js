@@ -213,7 +213,6 @@ module.exports = {
           children: [
             '/developing/network/explorers',
             '/developing/network/public-endpoints',
-            '/developing/tools/local-terp-core',
             '/developing/network/join-testnet',
             '/developing/network/join-mainnet',
           ],
