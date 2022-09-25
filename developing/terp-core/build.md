@@ -20,7 +20,7 @@ go version go1.19.1 darwin/amd64
 
 ## Build Terp-Core
 
-In order to build Flink you need the source code. Either [download the source of a release](https://github.com/terpnetwork/terp-core/releases) or [clone the git repository](https://github.com/terpnetwork/terp-core).
+In order to build Terp-Core you need the source code. Either [download the source of a release](https://github.com/terpnetwork/terp-core/releases) or [clone the git repository](https://github.com/terpnetwork/terp-core).
 
 Build Terp-Core from the source code:
 

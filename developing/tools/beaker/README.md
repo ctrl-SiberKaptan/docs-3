@@ -1,4 +1,3 @@
 # Beaker
 
-### Please note this is a place holder.
-This file is updated automatically from https://github.com/terpnetwork/beaker/README.md via a git action that downloads it during the build process and publishes the latest into our official documentation.
+beaker is a cosmwasm development application built by the osmosis team. We aim to see a terp network compatable version deployed for community memebers in the future. 

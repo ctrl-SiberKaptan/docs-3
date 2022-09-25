@@ -16,7 +16,7 @@ $ terpd keys add Default
 - name: Default
   type: local
   address: terp1quw5r22pxy8znjtdkgqc65atrm3x5hg6vycm5n
-  pubkey: osmopub1addwnpepqdct05khsxvtaaj0stuvayrpw0j8t6styr7vu05k3y63d5540ftuz8x6tsq
+  pubkey: terppub1addwnpepqdct05khsxvtaaj0stuvayrpw0j8t6styr7vu05k3y63d5540ftuz8x6tsq
   mnemonic: ""
   threshold: 0
   pubkeys: []
@@ -98,7 +98,7 @@ $ terpd keys show Default --bech acc
 - name: Default
   type: local
   address: terp1quw5r22pxy8znjtdkgqc65atrm3x5hg6vycm5n
-  pubkey: osmopub1addwnpepqdct05khsxvtaaj0stuvayrpw0j8t6styr7vu05k3y63d5540ftuz8x6tsq
+  pubkey: terppub1addwnpepqdct05khsxvtaaj0stuvayrpw0j8t6styr7vu05k3y63d5540ftuz8x6tsq
   mnemonic: ""
   threshold: 0
   pubkeys: []
@@ -112,8 +112,8 @@ $ terpd keys show Default --bech acc
 $ terpd keys show Default --bech val
 - name: Default
   type: local
-  address: osmocncl1zdlttjrqh9jsgk2l8tgn6f0kxlfy98s3prz35z
-  pubkey: osmocnclpub1addwnpepq0ua07k8p3vrv5dap4pl77n4gjyyqsqrndzu0tdrr60ddhfg6ah0ck5ad5l
+  address: terpcncl1zdlttjrqh9jsgk2l8tgn6f0kxlfy98s3prz35z
+  pubkey: terpcnclpub1addwnpepq0ua07k8p3vrv5dap4pl77n4gjyyqsqrndzu0tdrr60ddhfg6ah0ck5ad5l
   mnemonic: ""
   threshold: 0
   pubkeys: []
@@ -127,8 +127,8 @@ $ terpd keys show Default --bech val
 $ terpd keys show Default --bech cons
 - name: Default
   type: local
-  address: osmocnclcons1zdlttjrqh9jsgk2l8tgn6f0kxlfy98s34pfmlc
-  pubkey: osmocnclconspub1addwnpepq0ua07k8p3vrv5dap4pl77n4gjyyqsqrndzu0tdrr60ddhfg6ah0ch6kdrc
+  address: terpcnclcons1zdlttjrqh9jsgk2l8tgn6f0kxlfy98s34pfmlc
+  pubkey: terpcnclconspub1addwnpepq0ua07k8p3vrv5dap4pl77n4gjyyqsqrndzu0tdrr60ddhfg6ah0ch6kdrc
   mnemonic: ""
   threshold: 0
   pubkeys: []
@@ -194,7 +194,7 @@ The default `os` backend stores the keys in operating system's credential sub-sy
 
 Here is a list of the corresponding password managers in different operating systems:
 - macOS (since Mac OS 8.6): [Keychain](https://support.apple.com/en-gb/guide/keychain-access/welcome/mac)
-- Windows: [Credentials Management API](https://docs.miosmosoft.com/en-us/windows/win32/secauthn/credentials-management)
+- Windows: [Credentials Management API](https://docs.miterpsoft.com/en-us/windows/win32/secauthn/credentials-management)
 - GNU/Linux:
   - [libsecret](https://gitlab.gnome.org/GNOME/libsecret)
   - [kwallet](https://api.kde.org/frameworks/kwallet/html/index.html)

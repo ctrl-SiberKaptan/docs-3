@@ -10,7 +10,7 @@ Cosmos has many chains and many active contributors in many different forms. We 
 
 ## Recipients 
 
-Holders of CGAS, Test Network participants, & selected hodlers of cannabis & de-fi projects are included in the inital recipients.
+Holders of CGAS, Test Network participants, & selected hodlers of cannabis & de-fi projects are included in the initial recipients.
 
 CGAS was the inflationary token rewarded to holders of Chronic Token (V1), those who have ownership of cgas tokens either held CHT on Ethereum at a specific snapshot height, Were staking CHT on Chronic Network, or were previously Validators on Chronic Network. 
 
