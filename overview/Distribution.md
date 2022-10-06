@@ -1,11 +1,21 @@
 # Distribution
 
 
-Terp Network belongs to the people, not wealthy VC firms. This is why we decided not to do any private sales or investment rounds and rather self-fund the project to launch. We will make a fair distribution of all genesis $TERP tokens without any remuneration in return. 
+Terp Network is to belong to the people, not wealthy VC firms. This is why we decided not to do any private sales or investment rounds and rather self-fund the project to launch. The Foundation will perscribe a fair distribution of all genesis $TERP tokens without any remuneration in return. 
 
-**At genesis, there will be 420 million $TERP Tokens** 
+The Terp Foundation is to be a Legally Recognized DAO, & will be issuing these tokens. The foundation can fund development projects & other actions for the good of the community. 
 
-**At genesis, 10% of $PERSY tokens total supply is in circulation.**
+Hard work has happened to find a design that is difficult to game and fairly distirbuted amount actual participants and look forward to encouraging a vibrant & active community around Terp-NET.
+
+The development team fund is a fund that will be nessesary to reward those who put in the energy to bring this to lauch but will also leave some funds in reserve, controlled by the TERP Foundation. This will be a sub-DAO of Terp Network. 
+
+
+Below is a draft of the tokenomics, note that this is not final and is succeptable to change at any time.
+
+
+**At genesis, there will be 420,000,000 $TERP Tokens & 7,100,000 $PERSY Tokens** 
+
+**At genesis, 10.5% of $PERSY tokens total supply is in circulation.**
  90% will be created as rewards to delegators & validators for staking $TERP. More details can be found [here.]()
 
 #### **of these tokens, we will distribute them as follows (note these are % based, from initial circulating supply):**
@@ -23,12 +33,6 @@ Terp Network belongs to the people, not wealthy VC firms. This is why we decided
 
 Yes, half of $TERP tokens supply is controlled by community governance, & almost 30% of tokens will be fair-dropped on Cannabis & Web-3 believers.
 
-We have worked hard to find a design that is difficult to game and fairly distirbuted amount actual participants and look forward to encouraging a vibrant & active community around Terp-NET.
-
-The Terp Foundation is to be a Legally Recognized DAO, & will be issuing these tokens. It is to give 22% of the supply to itself to help guide and fund Terp-NET in the first months and years. These funds will be used to ensure sufficient liquidity of the $TERP token, fund development projects & other actions for the good of the community. 
-
-The development team fund is a fund that will be nessesary to reward those who put in the energy to bring this to lauch but will also leave some funds in reserve, controlled by the TERP Foundation. This will be a sub-DAO of Terp Network. 
-
 Please note that most of these tokens will be subject to a vesting period to limit initial liquidity & avoid quick dumping. The foundation will have around 25% of their token supply liquid on day one, so they can help establish the LP pools. But all the rest of the genesis tokens will be vested on various schedules. 
 
 ## Future Minting
@@ -41,48 +45,48 @@ We also do not prescribe where the tokens go but let the Test-NET DAO decide on 
 
 You can view the increase of $TERP supply in this table.
 
-| Year | Circulating Supply  | Inflation | Newly Minted $TERP |
-|---------|-----------------|--------|-------------|
-| year 0  | 4,200,000.00  | 93.00% | 3,906,000 |
-| year 1  | 8,106,000.00  | 62.00% | 5,025,720 |
-| year 2  | 13,131,720.00 | 41.33% | 5,427,778 |
-| year 3  | 18,559,497.60 | 27.56% | 5,114,173 |
-| year 4  | 23,673,670.27 | 18.37% | 4,348,941 |
-| year 5  | 28,022,611.18 | 12.25% | 3,431,905 |
-| year 6  | 31,454,516.16 | 8.16%  | 2,568,138 |
-| year 7  | 34,022,654.43 | 5.44%  | 1,851,878 |
-| year 8  | 35,874,532.25 | 3.63%  | 1,301,785 |
-| year 9  | 37,176,316.83 | 2.42%  | 899,348   |
-| year 10 | 38,075,665.25 | 1.61%  | 614,070   |
-| year 11 | 38,689,735.22 | 1.08%  | 415,982   |
-| year 12 | 39,105,717.52 | 0.72%  | 280,303   |
-| year 13 | 39,386,020.75 | 0.48%  | 188,208   |
-| year 14 | 39,574,229.01 | 0.32%  | 126,072   |
-| year 15 | 39,700,300.76 | 0.21%  | 84,316    |
-| year 16 | 39,784,616.35 | 0.14%  | 56,330    |
-| year 17 | 39,840,946.12 | 0.09%  | 37,606    |
-| year 18 | 39,878,552.47 | 0.06%  | 25,095    |
-| year 19 | 39,903,647.03 | 0.04%  | 16,740    |
-| year 20 | 39,920,387.27 | 0.03%  | 11,165    |
-| year 21 | 39,931,552.11 | 0.02%  | 7,445     |
-| year 22 | 39,938,997.42 | 0.01%  | 4,964     |
-| year 23 | 39,943,961.89 | 0.01%  | 3,310     |
-| year 24 | 39,947,271.94 | 0.01%  | 2,207     |
-| year 25 | 39,949,478.83 | 0.00%  | 1,471     |
-| year 26 | 39,950,950.16 | 0.00%  | 981         |
-| year 27 | 39,951,931.09 | 0.00%  | 654         |
-| year 28 | 39,952,585.06 | 0.00%  | 436         |
-| year 29 | 39,953,021.05 | 0.00%  | 291         |
-| year 30 | 39,953,311.71 | 0.00%  | 194         |
-| year 31 | 39,953,505.48 | 0.00%  | 129         |
-| year 32 | 39,953,634.67 | 0.00%  | 86          |
-| year 33 | 39,953,720.79 | 0.00%  | 57          |
-| year 34 | 39,953,778.20 | 0.00%  | 38          |
-| year 35 | 39,953,816.48 | 0.00%  | 26          |
-| year 36 | 39,953,842.00 | 0.00%  | 17          |
-| year 37 | 39,953,859.01 | 0.00%  | 11          |
-| year 38 | 39,953,870.35 | 0.00%  | 8           |
-| year 39 | 39,953,877.91 | 0.00%  | 5           |
-| year 40 | 39,953,882.95 | 0.00%  | 3           |
-| year 41 | 39,953,886.31 | 0.00%  | 2           |
-| year 42 | 39,953,888.56 | 0.00%  | 1           |
+|Year   |Token Supply |Inflation %|New minted|
+|-------|-------------|-----------|----------|
+|year 0 |7,100,000.00 |93.00%     |6,603,000 |
+|year 1 |13,703,000.00|62.00%     |8,495,860 |
+|year 2 |22,198,860.00|41.33%     |9,175,529 |
+|year 3 |31,374,388.80|27.56%     |8,645,387 |
+|year 4 |40,019,775.94|18.37%     |7,351,781 |
+|year 5 |47,371,557.00|12.25%     |5,801,554 |
+|year 6 |53,173,110.64|8.16%      |4,341,377 |
+|year 7 |57,514,487.25|5.44%      |3,130,555 |
+|year 8 |60,645,042.60|3.63%      |2,200,636 |
+|year 9 |62,845,678.44|2.42%      |1,520,327 |
+|year 10|64,366,005.54|1.61%      |1,038,071 |
+|year 11|65,404,076.20|1.08%      |703,208   |
+|year 12|66,107,284.38|0.72%      |473,846   |
+|year 13|66,581,130.32|0.48%      |318,162   |
+|year 14|66,899,291.90|0.32%      |213,121   |
+|year 15|67,112,413.20|0.21%      |142,533   |
+|year 16|67,254,946.69|0.14%      |95,224    |
+|year 17|67,350,170.82|0.09%      |63,573    |
+|year 18|67,413,743.46|0.06%      |42,422    |
+|year 19|67,456,165.22|0.04%      |28,299    |
+|year 20|67,484,464.20|0.03%      |18,874    |
+|year 21|67,503,338.09|0.02%      |12,586    |
+|year 22|67,515,924.21|0.01%      |8,392     |
+|year 23|67,524,316.52|0.01%      |5,596     |
+|year 24|67,529,912.09|0.01%      |3,731     |
+|year 25|67,533,642.78|0.00%      |2,487     |
+|year 26|67,536,130.04|0.00%      |1,658     |
+|year 27|67,537,788.27|0.00%      |1,106     |
+|year 28|67,538,893.79|0.00%      |737       |
+|year 29|67,539,630.82|0.00%      |491       |
+|year 30|67,540,122.17|0.00%      |328       |
+|year 31|67,540,449.74|0.00%      |218       |
+|year 32|67,540,668.13|0.00%      |146       |
+|year 33|67,540,813.72|0.00%      |97        |
+|year 34|67,540,910.77|0.00%      |65        |
+|year 35|67,540,975.48|0.00%      |43        |
+|year 36|67,541,018.62|0.00%      |29        |
+|year 37|67,541,047.38|0.00%      |19        |
+|year 38|67,541,066.55|0.00%      |13        |
+|year 39|67,541,079.33|0.00%      |9         |
+|year 40|67,541,087.85|0.00%      |6         |
+|year 41|67,541,093.53|0.00%      |4         |
+|year 42|67,541,097.32|0.00%      |3         |

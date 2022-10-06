@@ -77,7 +77,7 @@ Explore our guides and code examples to integrate and build with TERPNET.
 <br />
 <br />
 <div class="cards threeColumn">
-  <a href="https://terpnet.zenscan.io/" class="card lg" target="_blank">
+  <a href="https://terp.zenscan.io/" class="card lg" target="_blank">
     <img src="">
     <div class="title">
      Zenscan Explorer
@@ -95,19 +95,19 @@ Explore our guides and code examples to integrate and build with TERPNET.
      Block Explorer
     </div>
   </a>
-  <a href="https://explorer.nodestake.top/TerpNet" class="card lg" target="_blank">
+  <a href="https://stake-terp.zenchainlabs.io/" class="card lg" target="_blank">
     <img src="">
     <div class="title">
-     NodeStake.top
+     Staking Interface
     </div>
     <div class="text">
-     Block Explorer
+     Test-Net Staking Interface
     </div>
   </a>
 </div>
 <br />
 <div class="cards threeColumn">
-  <a href="https://lcd-terpnet.com/swagger/" class="card lg" target="_blank">
+  <a href="https://terp.api.bccnodes.com/" class="card lg" target="_blank">
     <img src="img/tender-lcd.png">
     <div class="title">
      TERPNET LCD
@@ -116,13 +116,13 @@ Explore our guides and code examples to integrate and build with TERPNET.
      Hosted by TBD (1317)
     </div>
   </a>
-  <a href="https://rpc-terpnet.blockapsis.com/" class="card lg" target="_blank">
+  <a href="https://terp.rpc.bccnodes.com/" class="card lg" target="_blank">
     <img src="img/tender-rpc.png">
     <div class="title">
      TERPNET RPC
     </div>
     <div class="text">
-     Hosted by TBD (26657)
+     Hosted by BCC Nodes (26657)
     </div>
   </a>
 </div>
@@ -137,13 +137,13 @@ Explore our guides and code examples to integrate and build with TERPNET.
      Block Explorer
     </div>
   </a>
-    <a href="" class="card lg" target="_blank">
+    <a href="https://terp.api.bccnodes.com/" class="card lg" target="_blank">
     <img src="img/swagger.png">
     <div class="title">
      REST
     </div>
     <div class="text">
-     Hosted by TBD (1317)
+     Hosted by BCC Nodes (1317)
     </div>
   </a>
 </div>

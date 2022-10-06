@@ -106,7 +106,7 @@
             alt="link to Terp Network discord room"
           />
         </a>
-        <a href="https://medium.com/@terpnet" rel="noopener" target="_blank">
+        <a href="https://terpnetwork.medium.com" rel="noopener" target="_blank">
           <img
             src="/img/medium.svg"
             alt="link to TerpNET medium"

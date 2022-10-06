@@ -6,7 +6,7 @@ The TERP token will be getting airdropped to stakers and validators of various c
 
 ## TEST-NET DAO
 
-We want to involve all test net participants by not losing it for accounts with little CGAS sent, and also dont want to give massive amount to whales either. WYND DAO mapped out the staked amount, balanace, and transactions sent for various chains and put this is a chart to analyze the distribution. 
+The Test Network DAO includes intial proven, trustworthy community members contributing for the good of the project. It will grow as proposals to include members to the DAO will be made, involving those who are depositing CGAS to the treasury, and those postively contributing to the project in various ways.
 
 ## CGAS Depositors
 
@@ -45,17 +45,6 @@ We chose the following values for calculating individual reward points for each 
 CGAS deposit points = Reward(p(staked), 20, 80, 0, 100)
 ``` 
 
-**Infrastructure maintainers** include anyone who:
-- Deploys a Test-Net Validator, Seed Node or Public Endpoint 
-- Is a Terp-Core Contributor
-- Participates in the pre-genesis ceremony.
-
-Contributions can be tracked via github.
-
-**Software contributors** includes anyone who:
-- Deploys Test-Net Dapps, & services beneficial to the commmunity
-
-Contributions can be tracked via github.
 
 **Positive community engagement** includes anyone who: 
 - Communicates effectively with other community members in need 

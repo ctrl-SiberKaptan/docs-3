@@ -16,6 +16,6 @@ The $Persy token is what is rewarded to validators actively participating in con
 
 These tokens are your personal stash to interact with Terp Network. 
 
-### Foundation Fee-Grants
+### Foundational Grants
 
-In order to fuel the growth of Terp Network, teams are encouraged to contact contributors to set up a fee=grant structure for their application. This will be epoch based, & can help bootstrap user interaction intially. 
+In order to fuel the growth of Terp Network, teams are encouraged to contact contributors to set up a fee-grant structure for their application. This will be epoch based, & can help bootstrap user interaction intially. 

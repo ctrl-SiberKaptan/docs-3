@@ -10,11 +10,17 @@ Cosmos has many chains and many active contributors in many different forms. We 
 
 ## Recipients 
 
-Holders of CGAS, Test Network participants, & selected hodlers of cannabis & de-fi projects are included in the initial recipients.
+The foundation is to perscribe the intial guidelines for The Faidrop. All details on the fairdrop are subject to change up until otherwise noted by the Foundation. 
+
+We can assume for now the exact recipients included in the Fairdrop will be those who have: \
+    - **Deposited CGAS to the TestNET DAO Treasury** \
+    - **Have become eligible, via TestNET DAO members consensus, due to beneficial contributions for the network**  \
+    - **Own specific web3 cannabis & defi oriented tokens** (project included decided via TestNET DAO consensus) 
+
 
 CGAS was the inflationary token rewarded to holders of Chronic Token (V1), those who have ownership of cgas tokens either held CHT on Ethereum at a specific snapshot height, Were staking CHT on Chronic Network, or were previously Validators on Chronic Network. 
 
-Test Network participants include those who are active & contributing in various ways. Details on the test net scavenger hunt can be found [here](https://github.com/terpnetwork/scavenger-hunt)
+
 
 We will reserve some airdrop tokens to perform a second round that includes those who own other projects tokens (fungible & non-fungible) that focus on benefitting the fusion of cannabis & web-3 for their communities.
 
